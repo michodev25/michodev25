@@ -17,8 +17,8 @@ const micho = {
   code: ["TypeScript", "HTML", "CSS", "JS"],
   askMeAbout: ["web dev", "frontend dev", "JavaScript", "NextJs"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "TypeScript", "Tailwind", "Bootstrap"],
-      backend: ["TypeScript", "JS"],
+      frontend: ["HTML", "CSS", "JS", "TypeScript", "React", "NextJS", "Tailwind", "Bootstrap"],
+      backend: ["NestJS", "Express", "TypeScript", "JS"],
   }
 }
 ```
