@@ -3,7 +3,7 @@
 <div align="center" width="50">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+michodev!;I'm+a+learning+developer...;I'm+a+CRAZY+Anime+fan;And+I'm+a+proud+new+GitHub+user)](https://git.io/typing-svg)
-
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 </div>
 <div align="center">
 
@@ -14,10 +14,10 @@ You have finally discovered my Github profile. <br>
 ```javascript
 const micho = {
   pronouns: "He" | "Him",
-  code: ["TypeScript", "Python", "HTML", "CSS", "JS"],
+  code: ["TypeScript", "HTML", "CSS", "JS"],
   askMeAbout: ["web dev", "frontend dev", "JavaScript", "NextJs"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "TypeScript", Tailwind, "Bootstrap"],
+      frontend: ["HTML", "CSS", "JS", "TypeScript", "Tailwind", "Bootstrap"],
       backend: ["TypeScript", "JS"],
   }
 }
