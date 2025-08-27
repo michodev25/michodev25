@@ -14,11 +14,11 @@ You have finally discovered my Github profile. <br>
 ```javascript
 const micho = {
   pronouns: "He" | "Him",
-  code: ["TypeScript", "HTML", "CSS", "JS"],
+  code: ["TS", "HTML", "CSS", "JS"],
   askMeAbout: ["web dev", "frontend dev", "JavaScript", "NextJs"],
   technologies: {
-    frontend: ["HTML", "CSS", "JS", "TypeScript", "React", "NextJS", "Tailwind", "Bootstrap"],
-    backend: ["NestJS", "Express", "TypeScript", "JS"],
+    frontend: ["HTML", "CSS", "JS", "TS", "React", "NextJS", "Tailwind", "Bootstrap"],
+    backend: ["NestJS", "Express", "TS", "JS"],
   }
 }
 ```
