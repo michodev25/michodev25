@@ -8,6 +8,18 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
 
 <i>Happy Coding!</i> 😊
 
