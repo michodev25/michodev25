@@ -8,15 +8,17 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
+
 #### A little more about me
+
 ```javascript
-const badri = {
+const micho = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  code: ["TypeScript", "Python", "HTML", "CSS", "JS"],
+  askMeAbout: ["web dev", "frontend dev", "JavaScript", "NextJs"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "JS", "TypeScript", Tailwind, "Bootstrap"],
+      backend: ["TypeScript", "JS"],
   }
 }
 ```
